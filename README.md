@@ -20,7 +20,7 @@ Bu proje, ağ güvenliğini arttırmak amacıyla belirli bir IP adresindeki tüm
 
 - Belirtilen IP adresindeki tüm portları (1-65535) tarar.
 - Açık olan portları `ports.txt` dosyasına kaydeder.
-- Kullanıcıdan başlangıçta onay alır ("test123" sorusu).
+- Kullanıcıdan başlangıçta onay alır ("Tüm Sorumlulukları kabul edip uygulamayı başlatmak istiyormusunuz?" sorusu).
 - `config.json` dosyasından yapılandırma bilgilerini alır.
 - IP adresi `config.json` dosyasında belirtilmemişse kullanıcıdan IP adresi ister.
 
@@ -53,7 +53,7 @@ Bu proje, ağ güvenliğini arttırmak amacıyla belirli bir IP adresindeki tüm
     node index.js
     ```
 
-3. Başlangıçta "test123 (y/n): " sorusu sorulacaktır. Devam etmek için "y" tuşuna basın.
+3. Başlangıçta "Tüm Sorumlulukları kabul edip uygulamayı başlatmak istiyormusunuz? (y/n): " sorusu sorulacaktır. Devam etmek için "y" tuşuna basın.
 4. IP adresi belirtilmemişse, sizden IP adresi girmeniz istenecektir.
 
 ## Çalışma Mantığı
