@@ -71,7 +71,7 @@ Bu proje, ağ güvenliğini arttırmak amacıyla belirli bir IP adresindeki tüm
 - **Zaman Aşımı:** Port kapalı ise, konsola "Kapalı" olarak yazdırılır.
 - **Hata Durumu:** Port kapalı ise veya bağlantı sağlanamıyorsa, konsola "Kapalı" olarak yazdırılır.
 - **IP Adresi Girmeme:** Kullanıcı geçerli bir IP adresi girmezse, uygulama kapatılır.
-- **Onay Reddedilirse:** Kullanıcı "test123" sorusuna "n" cevabını verirse, uygulama kapatılır.
+- **Onay Reddedilirse:** Kullanıcı "Tüm Sorumlulukları kabul edip uygulamayı başlatmak istiyormusunuz?" sorusuna "n" cevabını verirse, uygulama kapatılır.
 
 ## Geri Bildirim
 
