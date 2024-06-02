@@ -1,5 +1,5 @@
 {
-    "ip": "ryzen.mrsuffix.com",
+    "ip": "",
     "startPort": 1,
     "endPort": 65535,
     "timeout": 2000
