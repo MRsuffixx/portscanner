@@ -1,0 +1,6 @@
+{
+    "ip": "ryzen.mrsuffix.com",
+    "startPort": 1,
+    "endPort": 65535,
+    "timeout": 2000
+}
