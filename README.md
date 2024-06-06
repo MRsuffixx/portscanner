@@ -50,7 +50,7 @@ Bu proje, ağ güvenliğini arttırmak amacıyla belirli bir IP adresindeki tüm
 
 2. Uygulamayı başlatın:
     ```sh
-    node index.js
+    node app.js
     ```
 
 3. Başlangıçta "Tüm Sorumlulukları kabul edip uygulamayı başlatmak istiyormusunuz? (y/n): " sorusu sorulacaktır. Devam etmek için "y" tuşuna basın.
